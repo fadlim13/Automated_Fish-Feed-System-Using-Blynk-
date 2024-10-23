@@ -8,7 +8,10 @@ This project was a group work, and I was responsible for both the hardware and s
 ![a90fb9bb-7d39-407e-8df5-245e8bcb8444](https://github.com/fadlim13/PiKo-Pakan-Ikan-Otomatis-/assets/154414440/630df848-ab42-4053-b02c-9d57c0d2841d)                       
 
   # Blynk Display
-  
+  ![image](https://github.com/user-attachments/assets/98aff16a-cdce-4f6c-8b46-078ff3d580b1)
+  ![image](https://github.com/user-attachments/assets/5a8ada2a-1aca-48bc-a2ce-97c08f0da2e0)
+
+
   
   # A short video about the HC-SR04 sensor accuracy test
 https://github.com/fadlim13/PiKo-Pakan-Ikan-Otomatis-/assets/154414440/ab23004e-4a8c-4446-8d64-153633e94027                  
